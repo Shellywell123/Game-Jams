@@ -9,7 +9,7 @@ A Collection of Jam Games I have worked on.
   </tr>
   
   <tr>
-    <td>2021</a></td>
+    <td>2021</td>
     <td><Global Game Jam</td> 
     <td><a href="https://github.com/fjebaker/global-game-jam-2021">Kafka</a></td>
   </tr>
