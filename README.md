@@ -4,7 +4,7 @@ A Collection of Game Jam Games I have worked on.
 <table>
   <tr>
     <th>Year</th>
-    <th>Jam</th>
+    <th>Game Jam</th>
     <th>Game</th>
   </tr>
   
