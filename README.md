@@ -13,6 +13,7 @@ A Collection of Game Jam Games I have worked on.
     <td>2021</td>
     <td>Global Game Jam</td> 
     <td><a href="https://github.com/Shellywell123/global-game-jam-2021">Kafka</a></td>
+    <td></td>
   </tr>
   
   <tr>
@@ -26,6 +27,7 @@ A Collection of Game Jam Games I have worked on.
     <td>2023</td>
     <td>Global Game Jam</td> 
     <td><a href="https://github.com/Shellywell123/Holey-Moley">Holey-Moley</a></td>
+    <td></td>
   </tr>
   
 </table>
