@@ -29,5 +29,12 @@ A Collection of Game Jam Games I have worked on.
     <td><a href="https://github.com/Shellywell123/Holey-Moley">Holey-Moley</a></td>
     <td></td>
   </tr>
+
+  <tr>
+    <td>2024</td>
+    <td>Global Game Jam</td> 
+    <td><a href="https://github.com/Shellywell123/Holey-Moley">Please Laugh</a></td>
+    <td></td>
+  </tr>
   
 </table>
