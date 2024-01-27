@@ -1,0 +1,9 @@
+[submodule "GlobalGameJam2021"]
+	path = GlobalGameJam2021
+	url = git@github.com:Shellywell123/global-game-jam-2021.git
+[submodule "GlobalGameJam2022"]
+	path = GlobalGameJam2022
+	url = git@github.com:Shellywell123/global-game-jam-2022.git
+[submodule "GlobalGameJam2023"]
+	path = GlobalGameJam2023
+	url = git@github.com:Shellywell123/Holey-Moley.git
