@@ -6,6 +6,7 @@ A Collection of Game Jam Games I have worked on.
     <th>Year</th>
     <th>Game Jam</th>
     <th>Game</th>
+    <th>Play</th>
   </tr>
   
   <tr>
@@ -18,6 +19,7 @@ A Collection of Game Jam Games I have worked on.
     <td>2022</td>
     <td>Global Game Jam</td> 
     <td><a href="https://github.com/Shellywell123/global-game-jam-2022">Crossing-Part-Lines</a></td>
+    <td><a href="https://github.com/Shellywell123/global-game-jam-2021">Play Here</td>
   </tr>
   
   <tr>
