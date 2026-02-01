@@ -9,5 +9,5 @@ A Collection of Game Jam Games I have worked on.
 | 2023 | Global Game Jam | "Roots"          | [Holey-Moley](https://github.com/Shellywell123/Holey-Moley)                  | [play here](https://play.unity.com/mg/2d/webgl-builds-305774)      |
 | 2024 | Global Game Jam | "Make me laugh"  | [autocor-reet](https://github.com/Shellywell123/global-game-jam-2024)        |                                                                    |
 | 2025 | Global Game Jam | "Bubbles"        | [Belch](https://github.com/Shellywell123/global-game-jam-25)                 |                                                                    |
-| 2025 | Global Game Jam | "Mask"           | [?](https://github.com/Shellywell123/global-game-jam-2026)                   |                                                                    |
+| 2025 | Global Game Jam | "Mask"           | [Mask One Standing](https://github.com/Shellywell123/global-game-jam-2026)                   |                                                                    |
 
